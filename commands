@@ -1,0 +1,7 @@
+docker ps -a
+
+
+docker exec -it  <container-id> /bin/bash or /bin/sh
+
+docker logs <container-id>
+
